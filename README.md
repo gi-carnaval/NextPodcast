@@ -3,11 +3,11 @@
 </div>
 
 # PodcastrNext
-<p>
+
   [![Author](https://img.shields.io/badge/author-GiovaniCarnaval-8257E5?style=flat-square)](https://github.com/gi-carnaval)
   [![Languages](https://img.shields.io/github/languages/count/gi-carnaval/NextPodcast?color=%238257E5&style=flat-square)](#)
   [![Stars](https://img.shields.io/github/stars/gi-carnaval/NextPodcast?color=8257E5&style=flat-square)](https://github.com/gi-carnaval/NextPodcast/stargazers)
-</p>
+
 
 <br>
 ## 🧪 Tecnologias
@@ -23,7 +23,7 @@ Este projeto foi desenvolvido usando as seguintes tenologias:
 Clone o projeto e acesse a pasta:
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/podcastr.git && cd podcastr
+$ git clone https://github.com/gi-carnaval/NextPodcast.git && cd NextPodcast
 ```
 
 Siga os passos abaixo:
