@@ -9,11 +9,11 @@
   [![Stars](https://img.shields.io/github/stars/gi-carnaval/NextPodcast?color=8257E5&style=flat-square)](https://github.com/gi-carnaval/NextPodcast/stargazers)
 
 <div align="center">
-  <img src=".github/capitura-1.svg" alt="Captura-1">
+  <img src=".github/capitura-1.png" alt="Captura-1">
   <br/>
-  <img src=".github/capitura-2.svg" alt="Captura-2">
+  <img src=".github/capitura-2.png" alt="Captura-2">
   <br/>
-  <img src=".github/capitura-3.svg" alt="Captura-3">
+  <img src=".github/capitura-3.png" alt="Captura-3">
 </div>
 
 
