@@ -11,9 +11,9 @@
 <div align="center">
   <img src=".github/Captura-1.png" alt="Captura-1">
   <br/>
-  <img src=".github/Capitura-2.png" alt="Captura-2">
+  <img src=".github/Captura-2.png" alt="Captura-2">
   <br/>
-  <img src=".github/Capitura-3.png" alt="Captura-3">
+  <img src=".github/Captura-3.png" alt="Captura-3">
 </div>
 
 
