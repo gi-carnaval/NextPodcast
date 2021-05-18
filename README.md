@@ -9,13 +9,25 @@
   [![Stars](https://img.shields.io/github/stars/gi-carnaval/NextPodcast?color=8257E5&style=flat-square)](https://github.com/gi-carnaval/NextPodcast/stargazers)
 
 <div align="center">
+  ### Player Vazio
   <img src=".github/Captura-1.png" alt="Captura-1">
   <br/>
+  ### Tocando um Episódio
   <img src=".github/Captura-2.png" alt="Captura-2">
   <br/>
+  ### Detalhes do Episódio
   <img src=".github/Captura-3.png" alt="Captura-3">
 </div>
 
+#### _Feito_
+
+-   [x] Controles de Audio.
+-   [x] Botão para avançar ou retroceder 10 segundos.
+
+#### _Em Andamento_
+
+- [] Tema Escuro.
+- [] Responsividade.
 
 ## 🧪 Tecnologias
 
