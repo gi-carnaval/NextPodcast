@@ -8,8 +8,15 @@
   [![Languages](https://img.shields.io/github/languages/count/gi-carnaval/NextPodcast?color=%238257E5&style=flat-square)](#)
   [![Stars](https://img.shields.io/github/stars/gi-carnaval/NextPodcast?color=8257E5&style=flat-square)](https://github.com/gi-carnaval/NextPodcast/stargazers)
 
+<div align="center">
+  <img src=".github/capitura-1.svg" alt="Captura-1">
+  <br/>
+  <img src=".github/capitura-2.svg" alt="Captura-2">
+  <br/>
+  <img src=".github/capitura-3.svg" alt="Captura-3">
+</div>
 
-<br>
+
 ## 🧪 Tecnologias
 
 Este projeto foi desenvolvido usando as seguintes tenologias:
