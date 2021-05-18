@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/NextPodcast/public/logo.svg" alt="Podcastr logo">
+  <img src=".github/logo.svg" alt="Podcastr logo">
 </div>
 
 # PodcastrNext
